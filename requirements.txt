@@ -4,6 +4,7 @@ click
 einops
 matplotlib
 numpy
+pillow
 pytorch-lightning
 scikit-learn
 seaborn
